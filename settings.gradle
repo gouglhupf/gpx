@@ -1,0 +1,3 @@
+include 'gpx'
+
+rootProject.name = 'gpx-xstream-abstraction'
